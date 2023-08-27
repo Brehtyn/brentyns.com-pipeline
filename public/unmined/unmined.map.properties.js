@@ -7,7 +7,7 @@ var UnminedMapProperties = {
     minRegionX: -2,
     minRegionZ: -2,
     maxRegionX: 1,
-    maxRegionZ: 0,
+    maxRegionZ: 1,
     worldName: "Bedrock level",
     background: "",
     markers: new Array()
