@@ -7,7 +7,7 @@
             - /bin/cp -R public/contact $DEPLOYPATH
             - /bin/cp -R public/map $DEPLOYPATH
             - /bin/cp -R public/unmined $DEPLOYPATH
-            - /bin/cp public/.payload.json
+            - /bin/cp public/_payload.json
             - /bin/cp public/200.html $DEPLOYPATH
             - /bin/cp public/404.html $DEPLOYPATH
             - /bin/cp public/favicon.ico $DEPLOYPATH
